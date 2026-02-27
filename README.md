@@ -1,0 +1,42 @@
+# The Beatles – Here Comes The Sun (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.06] Here comes the sun, doo-doo-doo-doo
+[00:18.79] Here comes the sun, and I say
+[00:22.02] It's alright
+[00:28.02] 
+[00:27.58] Little darlin', it's been a long, cold, lonely winter
+[00:34.88] Little darlin', it feels like years since it's been here
+[01:02.88] 
+[00:42.56] Here comes the sun, doo-doo-doo-doo
+[00:46.43] Here comes the sun, and I say
+[00:50.23] It's alright
+[00:56.23] 
+[00:59.54] Little darlin', the smile's returning to their faces
+[01:06.97] Little darlin', it seems like years since it's been here
+[01:34.97] 
+[01:14.55] Here comes the sun
+[01:18.29] Here comes the sun, and I say
+[01:21.68] It's alright
+[01:27.68] 
+[01:36.43] Sun, sun, sun, here it comes
+[01:42.26] Sun, sun, sun, here it comes
+[01:48.00] Sun, sun, sun, here it comes
+[01:53.97] Sun, sun, sun, here it comes
+[01:59.88] Sun, sun, sun, here it comes
+[02:13.88] 
+[02:11.92] Little darlin', I feel that ice is slowly melting
+[02:19.17] Little darlin', it seems like years since it's been clear
+[02:47.67] 
+[02:26.80] Here comes the sun, doo-doo-doo-doo
+[02:30.75] Here comes the sun, and I say
+[02:34.54] It's alright
+[02:40.54] 
+[02:40.15] Here comes the sun, doo-doo-doo-doo
+[02:43.87] Here comes the sun
+[02:47.47] It's alright
+[02:53.47] 
+[02:52.94] It's alright
+```
