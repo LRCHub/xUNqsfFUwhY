@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Here Comes The Sun (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-27T09:57:24.898168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Here_Comes_The_Sun_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here Comes The Sun - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Here_Comes_The_Sun_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Here_Comes_The_Sun_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Here_Comes_The_Sun_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Here_Comes_The_Sun_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/06_Here_Comes_The_Sun_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Here_Comes_The_Sun_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here Comes The Sun - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Here_Comes_The_Sun_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here Comes The Sun - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Here_Comes_The_Sun_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Here_Comes_The_Sun_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Here_Comes_The_Sun_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Here Comes The Sun (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Here_Comes_The_Sun_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here Comes the Sun",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Here_Comes_the_Sun_The_Beatles.txt"
+    }
+  ]
+}
